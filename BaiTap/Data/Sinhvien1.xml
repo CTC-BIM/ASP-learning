@@ -1,0 +1,22 @@
+<DanhSachSinhVien>
+  <SinhVien>
+    <MaSo>SV001</MaSo>
+    <Hoten>Trần Văn Anh</Hoten>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>SV002</MaSo>
+    <Hoten>Nguyễn Thị Bánh tét</Hoten>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>SV003</MaSo>
+    <Hoten>Nguyễn Trần Hoàng</Hoten>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>SV004</MaSo>
+    <Hoten>Trần Hoàng Long</Hoten>
+  </SinhVien>
+  <SinhVien>
+    <MaSo>NV03</MaSo>
+    <Hoten>Trần Văn Anh Hai</Hoten>
+  </SinhVien>
+</DanhSachSinhVien>
